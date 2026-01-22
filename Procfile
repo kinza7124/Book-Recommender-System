@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: cd Book-Recommender-system && gunicorn app:app
